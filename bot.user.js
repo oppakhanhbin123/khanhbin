@@ -6,8 +6,8 @@
 // @description  KhanhBin-bot
 // @author       Ma Việt Khánh
 // @match        http://slither.io/
-// @updateURL    https://github.com/lythien/lythienbot/raw/master/bot.user.js
-// @downloadURL  https://github.com/lythien/lythienbot/raw/master/bot.user.js
+// @updateURL    https://github.com/oppakhanhbin123/khanhbin/blob/master/bot.user.js
+// @downloadURL  https://github.com/oppakhanhbin123/khanhbin/blob/master/bot.user.js
 // @supportURL   https://github.com/ErmiyaEskandary/Slither.io-bot/issues
 // @grant        none
 // ==/UserScript==
