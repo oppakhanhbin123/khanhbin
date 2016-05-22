@@ -1100,7 +1100,7 @@ window.loop = function() {
     userInterface.loadPreference('collisionRadiusMultiplier', 10);
     userInterface.loadPreference('rotateskin', false);
     window.nick.value = userInterface.loadPreference('savedNick',
-        'Slither.io-bot');
+        'KhanhBin-bot');
 
     // Overlays
 
